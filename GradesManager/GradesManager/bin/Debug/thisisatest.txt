@@ -1,0 +1,16 @@
+Bob,15,98
+Albert,15,67
+Dan,16,54
+Carl,17,70
+James,18,92
+Michael,15,43
+Alex,14,2
+Earl,16,75
+Rotman,15,98
+Craig,18,93
+Elliot,17,84
+Andre,16,25
+Pico,18,37
+Aliana,14,84
+Yule,16,89
+ishraq,45,99

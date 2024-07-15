@@ -1,0 +1,8 @@
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\bin\Debug\A7IshraqAlam.exe.config
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\bin\Debug\A7IshraqAlam.exe
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\bin\Debug\A7IshraqAlam.pdb
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\obj\Debug\A7IshraqAlam.csproj.AssemblyReference.cache
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\obj\Debug\A7IshraqAlam.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\obj\Debug\A7IshraqAlam.csproj.CoreCompileInputs.cache
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\obj\Debug\A7IshraqAlam.exe
+G:\My Drive\ICS3U1IshraqAlam\Assignment 7\A7IshraqAlam\A7IshraqAlam\obj\Debug\A7IshraqAlam.pdb
